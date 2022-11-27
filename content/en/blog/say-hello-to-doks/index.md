@@ -1,17 +1,17 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-excerpt: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title: "Say hello to Notion Charts 👋"
+description: "Introducing Notion Charts, the notion integration allowing you to add charts to any Database, straight from Notion."
+excerpt: "Introducing Notion Charts, the notion integration allowing you to add charts to any Database, straight from Notion."
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
 images: []
 categories: ["News"]
-tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
+tags: ["charts", "performance", "customizations"]
+contributors: ["Mitch C"]
 pinned: false
 homepage: false
 ---
 
-Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+Introducing Notion Charts, the notion integration allowing you to add charts to any Database, straight from Notion.
