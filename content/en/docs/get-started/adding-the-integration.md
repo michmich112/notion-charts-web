@@ -9,11 +9,11 @@ images: []
 menu:
   docs:
     parent: "get-started"
-    identifier: "installing-the-integration-1889cb3017099bca00a50e7afa28c114"
+    identifier: "adding-the-integration-1889cb3017099bca00a50e7afa28c114"
 weight: 801
 toc: true
 ---
 
-### Test
+### Under Contstruction 🚧
 
-Add the integratio by logging in lol
+This will be available shortly

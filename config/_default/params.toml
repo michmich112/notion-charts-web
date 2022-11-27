@@ -10,7 +10,7 @@ description = "Notion Charts is the simplest way to add charting capabilities to
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["notion-charts-banner.png"]
 ogLocale = "en_US"
 domainTLD = "www.notion-charts.app"
 titleHome = "Notion Charts"
@@ -82,7 +82,7 @@ alertText = "Notion Charts is now in Beta!"
 repoHost = "GitHub"
 #repoHost = "Gitea"
 docsRepo = "https://github.com/michmich112/notion-charts-web"
-docsRepoBranch = "master"
+docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
