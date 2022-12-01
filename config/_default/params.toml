@@ -87,6 +87,9 @@ docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
+# Notion Charts
+loginUri = "https://api.notion.com/v1/oauth/authorize?client_id=edc8802d-d918-4c6b-bea7-597606d4f4b1&response_type=code&owner=user&redirect_uri=https%3A%2F%2Fdev.api.notion-charts.app%2Fapi%2Fv0%2Fauth%2Fauthorize"
+
 [sections]
   sectionNav = ["docs", "guides"]
 
@@ -113,3 +116,4 @@ lastMod = false
   [menu.section]
     auto = true
     collapsibleSidebar = true
+

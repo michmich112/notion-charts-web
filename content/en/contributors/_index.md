@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-The Doks contributors.
+The Notion Charts contributors.
