@@ -88,7 +88,8 @@ editPage = false
 lastMod = false
 
 # Notion Charts
-loginUri = "https://api.notion.com/v1/oauth/authorize?client_id=edc8802d-d918-4c6b-bea7-597606d4f4b1&response_type=code&owner=user&redirect_uri=https%3A%2F%2Fdev.api.notion-charts.app%2Fapi%2Fv0%2Fauth%2Fauthorize"
+notionLoginUri = "https://api.notion.com/v1/oauth/authorize?client_id=76703faf-c977-4bb6-b6e9-5d2d7a3ce522&response_type=code&owner=user&redirect_uri=https%3A%2F%2Fapi.notion-charts.app%2Fapi%2Fv0%2Fauth%2Fauthorize"
+notionConnectButton = "<div class=\"btn\"><a href=\"{{ .Site.Params.notionLoginUri | safeURL }}\" target=\"popup\" onclick=\"window.open('{{ .Site.Params.notionLoginUri | safeURL }}', 'popup', 'width=600,height=600');return false;\"> <div class=\"notion-button\"> <span>Connect To Notion</span> <img class=\"img-fluid blur-up ls-is-cached lazyloaded\" src=\"Notion_app_logo.png\" width=\"40px\" alt=\"Notion Logo\" /> </div> </a> </div>"
 
 [sections]
   sectionNav = ["docs", "guides"]

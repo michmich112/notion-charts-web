@@ -1,1 +1,15 @@
 /** Custom styles */
+
+.notion-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+  background-color: #fffefc;
+  border-style: solid;
+  border-color: #000;
+  border-radius: 5px;
+  padding: 8px;
+  gap: 8px;
+}

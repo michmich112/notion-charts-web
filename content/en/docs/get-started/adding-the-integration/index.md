@@ -16,6 +16,8 @@ toc: true
 
 ## Authorize the extension with Notion
 
+{{< notion-connect-btn >}}
+
 {{< alert icon="🚧" text="You will need to authorize the extension for exevery workspace you want to use." />}}
 
 ## Save the token
