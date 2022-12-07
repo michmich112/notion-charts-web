@@ -1,0 +1,21 @@
+<div class="row justify-content-center">
+  <div class="col-lg-9 col-xl-8 text-center">
+    <div class="btn">
+      <a
+        href="{{ .Site.Params.notionLoginUri | safeURL }}"
+        target="popup"
+        onclick="window.open('{{ .Site.Params.notionLoginUri | safeURL }}', 'popup', 'width=600,height=600');return false;"
+      >
+        <div class="notion-button">
+          <span>Add To Notion</span>
+          <img
+            class="img-fluid blur-up ls-is-cached lazyloaded"
+            src="Notion_app_logo.png"
+            width="40px"
+            alt="Notion Logo"
+          />
+        </div>
+      </a>
+    </div>
+  </div>
+</div>

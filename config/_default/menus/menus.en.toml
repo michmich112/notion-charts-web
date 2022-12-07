@@ -57,6 +57,16 @@
   url = "/docs/get-started/adding-the-integration/"
   parent = "get-started"
 
+[[main]]
+  name = "API Reference"
+  url = "https://use-charts.notion.site/API-Reference-3d6d1c29fb5649b59e16800bebc20cfd"
+  weight = 50
+
+[[main]]
+  name = "Examples"
+  url = "https://use-charts.notion.site/Examples-2cb776b5b1fc40dda13319adf9ada20d"
+  weight = 60
+
 # [[main]]
 #   name = "Tutorial"
 #   weight = 50
