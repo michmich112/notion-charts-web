@@ -18,7 +18,19 @@ toc: true
 
 {{< notion-connect-btn >}}
 
-{{< alert icon="🚧" text="You will need to authorize the extension for exevery workspace you want to use." />}}
+By clicking on the "Add to Notion" button, a popup will appear prompting you to limit the integration's accesses.
+
+![Permission Popup](access-permissions.png)
+
+Select all the pages you want the authorize the integartion to access
+{{< alert icon="💡" text="Note: you can change these settings later on." />}}
+
+![Page Permission Popup](page-permissions.png)
+
+Once completed, the popup will display your integration token.
+
+{{< alert icon="🚧" text="You will need to authorize the integration for every workspace you want to use." />}}
+![Token display page](token.png)
 
 ## Save the token
 
@@ -36,4 +48,8 @@ Copy and keep this token safe as you will need to put it in each url you request
   https://api.notion-charts.app/workspace?token=<your-token>
 ```
 
+![Emebd block](embed-block.png)
+
 3. After a few seconds, the `embed` block should display information about your workspace
+
+![Connection Success](testing-connection.png)
