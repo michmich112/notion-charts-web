@@ -13,3 +13,13 @@
   padding: 8px;
   gap: 8px;
 }
+
+.full-column {
+  justify-content: center;
+  text-align: center;
+  align-items:center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 0.75rem;
+}
