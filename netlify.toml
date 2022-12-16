@@ -44,4 +44,4 @@
 [[headers]]
   for = '/*'
   [headers.values]
-    Content-Security-Policy = "default-src 'self' data: https://www.googletagmanager.com;"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' googletagmanager.com google-analytics.com;"
