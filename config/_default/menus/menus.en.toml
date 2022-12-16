@@ -51,9 +51,16 @@
 
 [[main]]
   name = "Add to your Workspace"
-  weight = 40
+  weight = 31
   identifier = "quick-start"
   url = "/docs/get-started/adding-the-integration/"
+  parent = "get-started"
+
+[[main]]
+  name = "How it works"
+  weight=32
+  identifier="how-it-works"
+  url = "/docs/get-started/how-it-works"
   parent = "get-started"
 
 [[main]]
